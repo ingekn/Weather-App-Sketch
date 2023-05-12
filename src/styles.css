@@ -116,3 +116,10 @@ ul {
   font-weight: 400;
   text-align: center;
 }
+.closing-line {
+  position: relative;
+  right: -640px;
+  font-style: italic;
+  color: gray;
+  font-size: 12px;
+}
